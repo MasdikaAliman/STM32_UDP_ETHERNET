@@ -1,0 +1,13 @@
+barelangUDP.h:59:14:static void BarelangW5500::W5500_Select()	8	static
+barelangUDP.h:63:14:static void BarelangW5500::W5500_Unselect()	8	static
+barelangUDP.h:67:14:static void BarelangW5500::W5500_ReadBuff(uint8_t*, uint16_t)	16	static
+barelangUDP.h:71:14:static void BarelangW5500::W5500_WriteBuff(uint8_t*, uint16_t)	16	static
+barelangUDP.h:75:17:static uint8_t BarelangW5500::W5500_ReadByte()	16	static
+barelangUDP.h:81:14:static void BarelangW5500::W5500_WriteByte(uint8_t)	16	static
+barelangUDP.cpp:17:1:BarelangW5500::BarelangW5500()	16	static
+barelangUDP.cpp:20:6:void BarelangW5500::init()	16	static
+barelangUDP.cpp:27:9:uint8_t BarelangW5500::udpConnect()	16	static
+barelangUDP.cpp:42:6:void BarelangW5500::udpProcess()	16	static
+barelangUDP.cpp:53:6:void BarelangW5500::udpReceive()	24	static
+barelangUDP.cpp:77:9:uint8_t BarelangW5500::udpSend(const void*, size_t)	40	static
+barelangUDP.cpp:97:9:uint8_t BarelangW5500::getSocketStatus()	16	static

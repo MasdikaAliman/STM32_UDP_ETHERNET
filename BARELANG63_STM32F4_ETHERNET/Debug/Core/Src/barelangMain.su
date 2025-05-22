@@ -1,0 +1,3 @@
+barelangMain.cpp:11:1:BarelangMain::BarelangMain()	24	static
+barelangMain.cpp:15:1:BarelangMain::~BarelangMain()	16	static
+barelangMain.cpp:19:6:void BarelangMain::Loop()	16	static
